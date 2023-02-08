@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: #2e232e;
+}
+
+.nav ul {
+    list-style: none;
+}
